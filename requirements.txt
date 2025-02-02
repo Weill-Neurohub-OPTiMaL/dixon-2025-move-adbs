@@ -1,0 +1,17 @@
+## Core function dependencies
+
+numpy
+pandas
+scipy
+scikit-learn
+scikit-optimize
+jupyterlab
+ipywidgets
+ipython
+tk
+pingouin
+statsmodels
+matplotlib
+seaborn
+
+rcssim @ git+https://github.com/Weill-Neurohub-OPTiMaL/rcs-simulation.git@main
